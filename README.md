@@ -1,34 +1,67 @@
-# Biuret Reaper
+<div align="center">
 
-> Public portfolio record — source code, program screenshots, binaries, scan logic, detection heuristics, and sensitive implementation details are intentionally not published here.
+# ⚡ Biuret Reaper
 
-Biuret Reaper is a desktop network-visibility project for authorized discovery, clearer device context, and practical reporting. It explores how useful network signals can be presented without overwhelming the user.
+### Discover with purpose. Understand with context.
 
-[View the case study on biuret.dev](https://biuret.dev/sites/biuret-reaper.html)
+A desktop **network visibility project** for authorized discovery, clearer device context, and practical reporting.
 
-## Project snapshot
+<br>
 
-| | |
-| --- | --- |
-| Status | In development |
-| Focus | Authorized network visibility |
-| Format | Desktop tool |
-| Last updated | September 2026 |
+![Network](https://img.shields.io/badge/Focus-Network%20Discovery-FF6B65?style=for-the-badge)
+![Use](https://img.shields.io/badge/Use-Authorized%20Environments-2563EB?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Development-353B45?style=for-the-badge)
 
-## Selected highlights
+<br>
 
-- **Focused discovery** — organizes scanning around practical visibility and user control.
-- **Device context** — combines selected signals into clearer device and service summaries.
-- **Responsive workflow** — keeps longer discovery tasks understandable and manageable.
+[![Website](https://img.shields.io/badge/Case_Study-biuret.dev-2563EB?style=for-the-badge)](https://biuret.dev/sites/biuret-reaper.html)
 
-## What this project demonstrates
+</div>
 
-Biuret Reaper reflects ongoing practice in network discovery, responsive desktop UX, result summarization, reporting, and responsible-use boundaries. Scan logic, detection heuristics, service checks, and internal profiling rules are intentionally excluded.
+---
 
-## Responsible use
+## 🔍 About Biuret Reaper
+
+**Biuret Reaper** explores how authorized network discovery can present useful signals without overwhelming the user. The project emphasizes deliberate control, readable context, and clear progress.
+
+It is part of my ongoing work in network security and desktop tool design.
+
+---
+
+## ✨ Selected Features
+
+- 🧭 **Focused discovery** — keeps the workflow purposeful and under user control.
+- 🖧 **Device context** — organizes selected findings into understandable summaries.
+- 📊 **Responsive progress** — helps longer tasks remain clear and manageable.
+
+---
+
+## 🧠 What This Project Demonstrates
+
+Biuret Reaper has helped me practice network discovery, result presentation, responsive desktop UX, and responsible security boundaries.
+
+Scan logic, detection methods, internal profiling, source code, and program screenshots are not included in this public portfolio record.
+
+---
+
+## ⚠️ Responsible Use
 
 Biuret Reaper is intended only for networks and systems the user is authorized to assess.
 
-## About
+---
 
-Created by [Adam Hamdan (Biuret)](https://github.com/Biuret7). Explore the complete portfolio at [biuret.dev](https://biuret.dev/) or contact Adam at [biuret956@gmail.com](mailto:biuret956@gmail.com).
+## 🚧 Project Status
+
+Biuret Reaper is **in development**. This repository documents selected capabilities without distributing the application.
+
+---
+
+## 👨‍💻 Developer
+
+**[Adam Hamdan (Biuret)](https://github.com/Biuret7)** · Cybersecurity and software development
+
+Explore the [full portfolio](https://biuret.dev/) or contact me at [biuret956@gmail.com](mailto:biuret956@gmail.com).
+
+---
+
+<p align="center">🛡️ <i>Network visibility built around clarity and authorized use.</i></p>
