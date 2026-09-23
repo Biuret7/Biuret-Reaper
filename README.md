@@ -60,7 +60,7 @@ Biuret Reaper is **in development**. This repository documents selected capabili
 
 **[Adam Hamdan (Biuret)](https://github.com/Biuret7)** · Cybersecurity and software development
 
-Explore the [full portfolio](https://biuret.dev/) or contact me at [biuret956@gmail.com](mailto:biuret956@gmail.com).
+Explore the [full portfolio](https://biuret.dev/) or contact me at [adam7.workspace@gmail.com](mailto:adam7.workspace@gmail.com).
 
 ---
 
